@@ -1,7 +1,7 @@
 > Fullstack Food Delivery Application using Reactjs
 > [Follow Us](http://github.com/barzagli)
 
-![This is the Project Thumbnail](./)
+![This is the Project Thumbnail](./snap.png)
 
 # To check the node version
 
